@@ -1,0 +1,4 @@
+Contact: mailto:support@draftzero.dev
+Expires: 2027-07-20T23:59:59Z
+Preferred-Languages: en
+Canonical: https://releases.draftzero.dev/.well-known/security.txt
